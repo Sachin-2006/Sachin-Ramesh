@@ -16,6 +16,6 @@
 - Designing scalable and maintainable software architectures.
 
 ## 📫 Let’s Connect
-- **LinkedIn:** [https://www.linkedin.com/in/sachin-ramesh-448a46317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- **LinkedIn:** [www.linkedin.com/in/sachin-ramesh-448a46317]
 - **Portfolio:** [Your Portfolio URL]
 - **Email:** [sachinrc2006@gmail.com]
